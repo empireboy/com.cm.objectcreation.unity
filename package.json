@@ -1,0 +1,15 @@
+{
+    "name": "com.cm.objectcreation.unity",
+    "displayName": "CM Object Creation Unity",
+    "version": "0.1.0",
+    "unity": "2021.2",
+    "author": "Casper Meloen",
+    "description": "CM Object Creation Unity is a Unity package for creating objects.",
+    "dependencies": {
+        "com.cm.objectcreation": "https://github.com/empireboy/com.cm.objectcreation.git"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.objectcreation.unity.git"
+    }
+}
